@@ -398,7 +398,7 @@ ul {
   left: 0;
   width: 100%;
   height: 100vh;
-  background: rgba(55, 179, 52, 0.83);
+  background: rgba(224, 74, 74, 0.83);
 }
 
 .wrapper .scontainer {
@@ -433,7 +433,7 @@ ul {
 /*----------shipping--------*/
 .shipping {
   padding: 50px;
-  background: #37B234;
+  background: #d03d3d;
   color: white;
 }
 
